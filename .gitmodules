@@ -1,0 +1,6 @@
+[submodule "filemate-api"]
+	path = filemate-api
+	url = https://github.com/Ege-Okyay/filemate-api
+[submodule "filemate-cli"]
+	path = filemate-cli
+	url = https://github.com/Ege-Okyay/filemate-cli
